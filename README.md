@@ -18,4 +18,4 @@ Working papaers and projects:
 1. empirical studies about sponsored content in influencer marketing (submitted to IJRM, in review)
 2. communications in game live streaming (recently rejected - again, but I'm not yielding)
 3. using the emergent abilities of large language models for market research
-4. cosplayers in China: an opportunity to study specificity of influencer marketing
+4. professional cosplayers in China: an opportunity to study specificity of influencer marketing
