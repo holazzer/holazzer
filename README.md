@@ -17,8 +17,6 @@ https://doi.org/10.1016/j.chb.2022.107467.
 
 Working papers and projects: 
 
-1. empirical studies about sponsored content in influencer marketing (submitted to IJRM, in review)
+1. sponsored content in influencer marketing (submitted to IJRM, in review)
 2. More on the topic game live streaming
 3. using the emergent abilities of large language models for market research
-4. professional cosplayers in China: an opportunity to study specificity of influencer marketing
-5. So just yesterday Baidu has announced that their LLMs are gonna be free. So I want to capitalize on that and whip up some quick experiments which hopefully can turn into a paper.
