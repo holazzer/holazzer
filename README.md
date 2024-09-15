@@ -22,5 +22,8 @@ Working papers and projects:
 3. using the emergent abilities of large language models for market research
 
 other things:
-I am a bad ukulele player.
+
+1. I am a bad ukulele player.
+2. I want to make the ultimate video game but so far no luck.
+3. 
 
