@@ -20,3 +20,7 @@ Working papers and projects:
 1. sponsored content in influencer marketing (submitted to IJRM, in review)
 2. More on the topic game live streaming
 3. using the emergent abilities of large language models for market research
+
+other things:
+I am a bad ukulele player.
+
