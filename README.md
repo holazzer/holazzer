@@ -1,4 +1,4 @@
-Male. Currently a grad student.
+Male. B.Mgt. Information Systems. & M.Mgt. Management Science and Engineering. Waiting for a phd or unemployment. 
 
 **I'm doing research on**: 💻Information Systems & 🎈Marketing
 
