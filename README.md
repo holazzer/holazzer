@@ -1,4 +1,4 @@
-Male. B.Mgt. Information Systems. & M.Mgt. Management Science and Engineering. Waiting for a phd or unemployment. 
+Male. B.Mgt. Information Systems. & M.Mgt. Management Science and Engineering. First-year PhD student at University of Edinburgh Business School. 
 
 **I'm doing research on**: 💻Information Systems & 🎈Marketing
 
